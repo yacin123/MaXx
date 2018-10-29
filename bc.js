@@ -15,10 +15,10 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Simple `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`الكام الي تبيه`,"http://twitch.tv/S-F")
+client.user.setGame(`ماكس رجع بقوة`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
 
 
 
- client.login(" التوكن ");
+ client.login("NDgzNjg2MTcyMjIxMjQzNDAy.DqUUwg.x5oWC4P-4UMdnr4XSrz2C90HJMY");
